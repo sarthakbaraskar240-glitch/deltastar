@@ -1,2 +1,2 @@
 # deltastar
-demo project
+demo project.
